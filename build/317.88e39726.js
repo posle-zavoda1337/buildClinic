@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[317],{9317:(e,n,t)=>{t.r(n),t.d(n,{default:()=>u});var r=t(5893),s=t(5923);const u=(0,t(7294).memo)((function(){return(0,r.jsx)(s.Z,{})}))}}]);
